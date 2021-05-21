@@ -1,37 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Page of SFDCFacts Academy 
 
-You can use the [editor on GitHub](https://github.com/choudharymanish8585/cowin-api-sample-response/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This site hosts the sample response data from CoWin portal which is the Covid-19 Vaccine Slot Reservation system. This sample api is used in my course **[The Ultimate Hands-On Lightning Web Component](https://www.udemy.com/course/lightning-web-component-development/?referralCode=B29D1E8015D945236DBA)**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Checkout my other courses:
 
-### Markdown
+* [The Complete Salesforce Development Course](https://www.udemy.com/course/salesforce-development/?referralCode=C44BBFDBBBA789BC6A3D)
+[![The Complete Salesforce Development Course](https://img-c.udemycdn.com/course/750x422/3212235_94da_4.jpg)](https://www.udemy.com/course/salesforce-development/?referralCode=C44BBFDBBBA789BC6A3D)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [A Practical Guide To SFDX and Salesforce CLI](https://www.udemy.com/course/salesforce-cli/?referralCode=91D0F7061562D1B59737)
+[![A Practical Guide To SFDX and Salesforce CLI](https://img-c.udemycdn.com/course/750x422/2611022_3096_3.jpg)](https://www.udemy.com/course/salesforce-cli/?referralCode=91D0F7061562D1B59737)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/choudharymanish8585/cowin-api-sample-response/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
